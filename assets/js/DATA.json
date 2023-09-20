@@ -1,0 +1,31 @@
+[{
+        "location": "Bali, Indonesia",
+        "beachName": "Kuta Beach",
+        "description": "Experience the ultimate tropical paradise at Kuta Beach in Bali. With its golden sands and world-class waves, it's a surfer's dream. Relax under the swaying palms and enjoy vibrant nightlife."
+    },
+    {
+        "location": "Maldives",
+        "beachName": "Whitehaven Beach",
+        "description": "Discover the pristine beauty of Whitehaven Beach in the Maldives. Its powdery white sand and crystal-clear waters make it a haven for snorkelers and beach lovers alike."
+    },
+    {
+        "location": "Hawaii, USA",
+        "beachName": "Waikiki Beach",
+        "description": "Waikiki Beach in Hawaii offers a blend of stunning natural beauty and urban excitement. Surf, swim, or simply soak up the sun with Diamond Head as your backdrop."
+    },
+    {
+        "location": "Thailand",
+        "beachName": "Railay Beach",
+        "description": "Railay Beach in Thailand is a hidden gem accessible only by boat. Towering limestone cliffs, clear waters, and lush greenery create a magical escape for climbers and adventurers."
+    },
+    {
+        "location": "Seychelles",
+        "beachName": "Anse Lazio",
+        "description": "Anse Lazio in Seychelles is a postcard-perfect paradise with its turquoise waters, granite boulders, and palm-fringed shores. Snorkel in the coral reefs or laze in the sun."
+    },
+    {
+        "location": "Australia",
+        "beachName": "Bondi Beach",
+        "description": "Bondi Beach in Australia is an iconic destination known for its golden sands and vibrant culture. Surf the waves, explore coastal trails, and savor local cuisine."
+    }
+]
